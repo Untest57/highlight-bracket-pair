@@ -130,7 +130,7 @@
     ]]>
     </change-notes>
 
-    <idea-version since-build="231.1" until-build="232.*"/>
+    <idea-version since-build="231.1" until-build="241.*"/>
 
     <applicationListeners>
         <listener class="cn.aprilviolet.highlightbracketpair.component.HighlighterBracketPairInitListener"
